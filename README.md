@@ -74,7 +74,9 @@ Returns since issue use one price snapshot, not a fixed holding period, so IPOs 
 The average return is lifted by a few big winners, which is why the median is shown too.
 Some groups are small (for example, individual months), so treat month-level results as description, not prediction.
 This is one year of data. It describes 2025; it does not predict future IPOs.
-This is an educational project, not investment advice.<img width="1380" height="725" alt="Screenshot 2026-10-27 151046" src="https://github.com/user-attachments/assets/c851464d-6323-4f80-b033-6fc2dced1316" />
-<img width="1332" height="706" alt="Screenshot 2026-11-01 144436" src="https://github.com/user-attachments/assets/2424255c-a1cd-425e-903e-f328bda08c30" />
-<img width="1337" height="701" alt="Screenshot 2026-11-01 144458" src="https://github.com/user-attachments/assets/43d54eae-af62-4264-8e61-0567b33fde4f" />
+This is an educational project, not investment advice.
+
+<img width="1348" height="702" alt="Screenshot 2026-11-01 151742" src="https://github.com/user-attachments/assets/0bd4eb5c-6076-4ed6-8603-8efb99e83506" />
+<img width="1340" height="701" alt="Screenshot 2026-11-01 151633" src="https://github.com/user-attachments/assets/55cd376d-f7f4-474e-8441-c96725317948" />
+<img width="1337" height="701" alt="Screenshot 2026-11-01 144458" src="https://github.com/user-attachments/assets/8c764feb-7914-4063-8d07-008befc8099c" />
 
